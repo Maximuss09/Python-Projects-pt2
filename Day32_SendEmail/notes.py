@@ -3,9 +3,9 @@ import datetime as dt
 import random
 
 
-my_email = "themexicaniamafia@gmail.com"
-my_password = "euqs scie ylvq qlfr" 
-test_account = "testeraccount690@yahoo.com"
+#my_email = "themexicaniamafia@gmail.com"
+#my_password = " " 
+#test_account = "testeraccount690@yahoo.com"
 
 
 now = dt.datetime.now()
