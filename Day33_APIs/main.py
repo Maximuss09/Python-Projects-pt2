@@ -6,8 +6,8 @@ import time
 MY_LAT = 25.686613
 MY_LONG = -100.316116
 
-my_email = "themexicaniamafia@gmail.com"
-my_password = "euqs scie ylvq qlfr" 
+#my_email = "themexicaniamafia@gmail.com"
+#my_password = " "
 
 def is_iss_overhead():
     response = requests.get(url="http://api.open-notify.org/iss-now.json")
@@ -59,7 +59,6 @@ while True:
         )
 
 
-# BONUS: run the code every 60 seconds.
 
 
 
